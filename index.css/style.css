@@ -1,0 +1,17 @@
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+#name{
+	display: none;
+	width: 100%;
+	font-size: 50px;
+	font-weight: bolder;
+	font-family: Georgia, serif;	
+	padding-top: 10%;
+	color: white;
+	text-align: center;
+}
